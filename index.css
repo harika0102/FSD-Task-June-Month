@@ -1,0 +1,70 @@
+h6 {
+    color: blue;
+}
+
+
+h2 {
+text-align: center;
+}
+
+h5 {
+    color: grey;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.all_button {
+    
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color:green;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.branding_button {
+    
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color:white;
+    color:black;    
+    display: inline-block;
+    cursor: pointer;
+        
+}
+
+.design_button {
+    
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color:white;
+    color:black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.dev_button {
+    
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color:white;
+    color: black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
